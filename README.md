@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @George-Paul97
+- 👋 Hi, I’m @George-Paul97.
 - 👀 I’m interested in HTML, CSS, SASS, JavaScript, jQuery amd other related web technologies/languages.
 - 🌱 I’m currently learning React.
 
