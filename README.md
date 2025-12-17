@@ -1,6 +1,5 @@
 - 👋 Hi, my name is George Paul Avramescu.
 - 👀 I’m interested in HTML, CSS, SASS/SCSS, JavaScript, jQuery and other related web technologies/languages.
-- 🌱 I’m currently learning React.
 
 
 <!---
