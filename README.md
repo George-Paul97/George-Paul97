@@ -11,6 +11,7 @@ I build and support production systems with a focus on **APIs, automation, relia
 - **Golang (Go):** concurrency patterns, error handling, performance/profiling basics
 - **Distributed systems & observability:** logs/metrics/tracing (OpenTelemetry concepts, Prometheus/Grafana patterns)
 - **Workflow orchestration:** Temporal/Cadence concepts
+- **Zoho CRM:** API/integrations concepts (learning)
 
 ## 🧰 Tech I use / have used
 - **Backend:** PHP, REST APIs, async jobs/workers, validation, OOP/design
@@ -18,6 +19,7 @@ I build and support production systems with a focus on **APIs, automation, relia
 - **Mobile:** React Native (Android/iOS)
 - **Data/Tooling:** MySQL/SQL, MongoDB, Elasticsearch, Docker, Git
 - **Scripting:** Python (basic), shell (basic)
+- **CRM/Integrations:** Zoho CRM (learning / exploring API integrations)
 
 ## 📌 Selected public links
 - National public e-filing & fee payments portal: https://registratura.rejust.ro  
