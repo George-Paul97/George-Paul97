@@ -12,7 +12,8 @@ I build and support production systems with a focus on **APIs, automation, relia
 - **Distributed systems & observability:** logs/metrics/tracing (OpenTelemetry concepts, Prometheus/Grafana patterns)
 - **Workflow orchestration:** Temporal/Cadence concepts
 - **Zoho CRM:** API/integrations concepts (learning)
-
+- **n8n workflows**
+- **Shopify apps:** OAuth install, Admin GraphQL, webhooks, embedded Polaris UI (learning)
 ## 🧰 Tech I use / have used
 - **Backend:** PHP, REST APIs, async jobs/workers, validation, OOP/design
 - **Web:** JavaScript/TypeScript, React, Next.js
